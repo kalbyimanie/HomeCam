@@ -1,6 +1,6 @@
 /*
 @author craptalk_a.k.a_Kalby_Imanie
-@github http://github.com/craptlk/talkycalculator
+@github https://github.com/craptalk/talkycalculator
 */
 
 #include <stdio.h>
