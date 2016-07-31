@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Bagaimana cara menggunakan aplikasi HomeCAM?"
+        android:id="@+id/textqst3"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="52dp"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ans3"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:paddingLeft="10dp"
+        android:textAlignment="textStart"
+        android:text="Aplikasi HomeCAM terdapat 5 tombol:
+1. Monitor: Pengguna dapat melihat foto hasil dari sebuah pergerakan yang terjadi yang dikirimkan oleh kamera.
+2. Inbox: Pengguna melakukan sign-in e-mail untuk mendapatkan notifikasi dari perangkat jika terjadi sebuah pergerakan.
+3. About: Berisikan informasi tentang versi aplikasi.
+4. F.A.Q: Berisikan informasi tentang pertanyaan umum seputar penggunaan aplikasi yang disertai jawabanya.
+5. Exit: Untuk keluar dari aplikasi HomCAM."
+        android:layout_below="@+id/textqst3"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="31dp" />
+
+</RelativeLayout>

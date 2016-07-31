@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.abi.nosql.Home">
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Monitor"
+        android:id="@+id/monitorBtn"
+        android:layout_above="@+id/inboxbtn"
+        android:layout_alignStart="@+id/image_title" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Inbox"
+        android:id="@+id/inboxbtn"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/monitorBtn" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="About"
+        android:id="@+id/aboutBtn"
+        android:layout_below="@+id/inboxbtn"
+        android:layout_alignStart="@+id/inboxbtn" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="F.A.Q"
+        android:id="@+id/faqBtn"
+        android:layout_below="@+id/aboutBtn"
+        android:layout_alignStart="@+id/aboutBtn" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Exit"
+        android:id="@+id/logBtn"
+        android:layout_below="@+id/faqBtn"
+        android:layout_alignStart="@+id/faqBtn" />
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="130dp"
+        android:id="@+id/image_title"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logoapp"
+        />
+</RelativeLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textView5"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:textAlignment="textStart"
+        android:paddingLeft="10dp"
+        android:text="HomeCAM adalah aplikasi home security monitoring yang memungkinkan pengguna untuk melakukan monitoring terhadap zona titik yang telah terpasang oleh perangkat pendukung. perangkat pendukung ini adalah mikrokontroler arduino, dimana perangkat tersebut akan merekam situasi atau keadaan secara real-time dan mengirimkan informasi kepada pengguna berupa gambar dan notifikasi jika ada sebuah pergerakan, yang dibantu oleh PIR(sensor gerak)."
+        android:layout_below="@+id/textView6"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="56dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Apa itu HomeCAM?"
+        android:id="@+id/textView6"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="52dp"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        />
+</RelativeLayout>

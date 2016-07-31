@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_ab2dc20302714154a5644e3e003c0dd7ddee5cdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\abi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_75ea611038dfceb779874470022164cf89575830.jar" />
+    </item>
+    <item
+        jar="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_c423218599ca9eaacbdad8ca0e19c575c785995b.jar" />
+    </item>
+    <item
+        jar="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_58131e675f368ba178327df3983620f8c9ab558f.jar" />
+    </item>
+    <item
+        jar="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_7fa3b03eef1f5ab3a986ca1a2e620eeadc317c06.jar" />
+    </item>
+    <item
+        jar="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_bfa0c03b8412bd4403918a1170326564e9e7148d.jar" />
+    </item>
+    <item
+        jar="C:\Users\abi\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="C:\Users\abi\AndroidStudioProjects\NoSql\app\build\intermediates\pre-dexed\debug\library-1.0.18_6d5530dc170f42ba1824c9f237055229cbfbfd78.jar" />
+    </item>
+
+</items>
